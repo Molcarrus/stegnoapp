@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+image = "0.25.8"
+ratatui = "0.29.0"
+ratatui-explorer = "0.2.1"
+structopt = "0.3.26"
+tui-input = "0.14.0"
